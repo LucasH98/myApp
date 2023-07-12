@@ -1,3 +1,3 @@
-Trabalho referente a nota da av1 e av2 , da matéria de dispositivos moveis
+Aplicação referente ao trabalho solicitado da matéria de desenvolvimento com dispositivos móveis.
+Foi usado ReactNative e a biblioteca Axios para testar e simular as requisições .
 
-Trabalho feito com Lucas henrique dos santos e Guilherme Pires Rodrigues
