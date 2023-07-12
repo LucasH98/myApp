@@ -1,4 +1,4 @@
-<p>🚀Implementação de CRUD e listagem ultizando reacNative </p>
+<p>🚀Implementação de CRUD e listagem utizando reacNative </p>
 
 
 
